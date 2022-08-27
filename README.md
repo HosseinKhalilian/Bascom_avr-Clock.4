@@ -7,7 +7,7 @@
 
 
 ### This repository designed and implemented a digital clock .
-This watch has 5 keys to set the time and date and the ability to display the time and date on CH-LCD and also display the time on 3 pieces 2-digit 7-segment display.
+This clock has 5 keys to set the time and date and the ability to display the time and date on CH-LCD and also display the time on 3 pieces 2-digit 7-segment display.
 
 ###### This repository contains Source Files & Proteus Circuit Simulation Files. 
 
